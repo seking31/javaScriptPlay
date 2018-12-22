@@ -1,0 +1,101 @@
+id,price,count,description,date_issued,colors,name
+1,$5.72,43,Unspecified lack of coordination,2/21/2018,Green,Flowdesk
+2,$9.83,76,"Sublux of proximal interphaln joint of r idx fngr, sequela",5/22/2018,Puce,Voltsillam
+3,$9.11,60,"Minimally displaced Zone I fx sacrum, init for opn fx",8/28/2018,Blue,Tempsoft
+4,$6.29,25,Adverse effect of antiparkns drug/centr muscle-tone depr,9/1/2018,Maroon,Konklux
+5,$9.42,40,Athscl nonaut bio bypass of the right leg w ulcer of thigh,11/29/2018,Yellow,Alpha
+6,$1.52,1,"Cardiac failure due to anesth during preg, second trimester",11/21/2018,Fuscia,Tampflex
+7,$7.64,53,Vernal conjunctivitis,3/15/2018,Purple,Tampflex
+8,$5.42,10,"Age-rel osteopor w crnt path fx, l humer, 7thD",9/5/2018,Orange,Flowdesk
+9,$7.61,81,"Torus fx upper end of left ulna, subs for fx w delay heal",6/29/2018,Puce,Trippledex
+10,$6.75,79,Laceration with foreign body of left upper arm,9/26/2018,Indigo,Voltsillam
+11,$5.30,10,"Unsp fracture of left acetabulum, subs for fx w routn heal",7/11/2018,Turquoise,Span
+12,$8.69,67,"Renal hypoplasia, bilateral",7/21/2018,Aquamarine,Asoka
+13,$9.32,6,Inj musc/tend anterior muscle group at lower leg level,8/31/2018,Puce,Alphazap
+14,$6.43,79,"Laceration w fb of left eyelid and periocular area, subs",4/19/2018,Blue,Kanlam
+15,$8.81,9,"Nondisp midcervical fx r femr, 7thN",8/23/2018,Crimson,Daltfresh
+16,$3.21,51,Disorders of lacrimal system,3/24/2018,Mauv,Job
+17,$6.36,71,"Major laceration of left vertebral artery, initial encounter",4/9/2018,Puce,Cardguard
+18,$3.50,46,"Other sprain of right shoulder joint, subsequent encounter",5/5/2018,Mauv,Fintone
+19,$5.21,83,Bedroom in boarding-house as place,10/1/2018,Khaki,Bigtax
+20,$0.73,74,"Nondisp fx of dist phalanx of unsp less toe(s), 7thB",3/2/2018,Orange,Zoolab
+21,$5.97,42,"Unsp injury of radial artery at wrs/hnd lv of unsp arm, init",6/24/2018,Violet,Cookley
+22,$3.02,23,"Food in resp tract, part unsp causing asphyxiation, init",12/19/2018,Maroon,Prodder
+23,$9.31,39,"Disseminated chorioretin inflammation, peripheral, unsp eye",3/23/2018,Goldenrod,Gembucket
+24,$7.29,89,"Poisoning by hemostatic drug, accidental, init",10/8/2018,Orange,Holdlamis
+25,$8.35,80,Congenital complete absence of lower limb,11/10/2018,Blue,Span
+26,$1.12,89,Vis def/sptl nglct following other cerebrovascular disease,5/26/2018,Fuscia,Prodder
+27,$0.16,54,"Echinococcus multilocularis infection, unspecified",5/20/2018,Purple,Bitwolf
+28,$3.79,58,"Malig neoplm of conn and soft tissue of head, face and neck",9/13/2018,Puce,Quo Lux
+29,$2.50,40,"BMI pediatric, 85% to less than 95th percentile for age",5/7/2018,Turquoise,Trippledex
+30,$9.93,79,Other diphtheritic complications,1/6/2018,Orange,Domainer
+31,$8.33,74,"Burn of second degree of right toe(s) (nail), subs encntr",11/15/2018,Turquoise,Home Ing
+32,$9.69,72,"Assault by gas, air or spring-operated guns",4/8/2018,Goldenrod,Trippledex
+33,$8.97,24,"Contus/lac right cerebrum w LOC of 30 minutes or less, subs",9/28/2018,Red,Solarbreeze
+34,$8.83,39,"External constrict of right eyelid and periocular area, init",2/20/2018,Blue,Tresom
+35,$9.12,40,"Medial dislocation of unsp ulnohumeral joint, subs encntr",5/11/2018,Maroon,Bigtax
+36,$3.40,7,"Postinfective membranous urethral stricture, NEC",10/24/2018,Pink,Solarbreeze
+37,$9.81,7,"Disp fx of distal phalanx of unspecified great toe, sequela",10/27/2018,Goldenrod,Veribet
+38,$3.41,30,"Toxic effect of other pesticides, undetermined, init encntr",8/29/2018,Green,Konklab
+39,$7.69,79,"Other secondary chronic gout, right wrist, with tophus",6/15/2018,Turquoise,Toughjoyfax
+40,$4.97,55,"Subluxation of distal interphalangeal joint of thmb, subs",7/13/2018,Violet,Ronstring
+41,$0.85,12,"Other physeal fracture of phalanx of right toe, 7thB",11/26/2018,Pink,Tempsoft
+42,$8.14,63,"Age-rel osteopor w crnt path fx, unsp site, 7thP",3/14/2018,Purple,Flowdesk
+43,$9.92,56,"Underdosing of cocaine, sequela",1/31/2018,Fuscia,Span
+44,$0.55,3,"Poisn by analeptics and opioid receptor antag, slf-hrm, sqla",7/20/2018,Aquamarine,Voyatouch
+45,$6.05,32,"Poisoning by hemostatic drug, accidental, subs",9/16/2018,Teal,Asoka
+46,$6.91,31,Unsp symptoms and signs involving the genitourinary system,2/26/2018,Purple,Cookley
+47,$4.90,27,"Epidural hemorrhage w LOC >24 hr w ret consc lev, subs",11/13/2018,Blue,Namfix
+48,$3.43,47,"Oth fx unsp lower leg, subs for opn fx type I/2 w routn heal",7/10/2018,Pink,Stringtough
+49,$1.57,80,Car passenger injured in collision w SUV nontraf,11/13/2018,Purple,Quo Lux
+50,$7.44,33,Congenital hydrocele,9/4/2018,Puce,Biodex
+51,$6.77,22,"Ped w convey injured pick-up truck, pk-up/van, unsp, subs",5/18/2018,Khaki,Otcom
+52,$9.60,76,"Assault by unspecified firearm discharge, sequela",9/4/2018,Fuscia,Flexidy
+53,$1.77,13,"Subacute osteomyelitis, unspecified radius and ulna",3/5/2018,Puce,Hatity
+54,$7.60,50,"Open bite of lip, subsequent encounter",5/3/2018,Indigo,Fixflex
+55,$1.68,40,"Displacement of implnt elec nstim of spinal cord lead, init",10/9/2018,Indigo,Viva
+56,$9.80,74,Carbuncle of umbilicus,9/10/2018,Turquoise,Tampflex
+57,$0.70,48,"Personal history of psychological trauma, NEC",7/8/2018,Mauv,Stim
+58,$6.02,8,"Nondisp fx of ant pro of r calcaneus, 7thG",3/11/2018,Aquamarine,Flexidy
+59,$4.87,36,"Adverse effect of drugs affecting uric acid metabolism, subs",10/10/2018,Maroon,Biodex
+60,$7.14,74,"Disp fx of 1st metatarsal bone, unsp ft, 7thK",2/12/2018,Maroon,Treeflex
+61,$4.39,37,"Oth injury of right external jugular vein, sequela",5/21/2018,Blue,Domainer
+62,$4.04,14,Abscess of liver,8/26/2018,Violet,Greenlam
+63,$0.29,39,"Accidental malfunction of hunting rifle, sequela",8/11/2018,Indigo,Prodder
+64,$3.18,13,"Drown d/t thrown ovrbrd by motion of power wtrcrft, init",2/13/2018,Khaki,Voyatouch
+65,$3.79,73,NIHSS score 2,5/10/2018,Indigo,Rank
+66,$1.66,6,"Type I occipital condyle fracture, right side, 7thB",9/26/2018,Crimson,Ventosanzap
+67,$9.12,50,Legal intervention involving gas,5/12/2018,Purple,Regrant
+68,$7.69,4,"Sltr-haris Type I physeal fx upper end of l femur, sequela",8/12/2018,Indigo,Fintone
+69,$3.21,48,Unspecified open wound of left ear,5/20/2018,Red,Biodex
+70,$4.81,15,Corrosion of first deg mult sites of unsp wrist and hand,6/26/2018,Goldenrod,Redhold
+71,$9.39,93,"Oth fx shaft of rad, r arm, 7thM",1/25/2018,Khaki,Tempsoft
+72,$8.86,89,"Laceration of posterior tibial artery, left leg, sequela",11/13/2018,Maroon,Pannier
+73,$4.82,1,"Fetomaternal placental transfuse syndrome, second trimester",10/22/2018,Goldenrod,Sonsing
+74,$8.57,24,Personal history of leukemia,3/26/2018,Puce,Voltsillam
+75,$8.88,9,"Lead-induced chronic gout, left shoulder, with tophus",5/28/2018,Teal,Veribet
+76,$8.19,98,"Toxic effect of halogen deriv of aliphatic hydrocrb, acc",12/31/2017,Khaki,Konklab
+77,$6.90,56,Other specified disorders of the male genital organs,11/13/2018,Khaki,Andalax
+78,$4.61,10,Ped on rolr-skt injured in collision w pedl cyc nontraf,1/28/2018,Turquoise,Biodex
+79,$7.48,55,"Spondylolisthesis, thoracic region",8/30/2018,Crimson,Solarbreeze
+80,$2.46,73,Disorders of tryptophan metabolism,9/18/2018,Orange,Stronghold
+81,$5.53,59,Open wound of lower back and pelvis,1/16/2018,Indigo,Gembucket
+82,$7.63,91,Other deletions of part of a chromosome,10/30/2018,Mauv,Zathin
+83,$7.50,89,Iron and its compounds,3/22/2018,Indigo,Greenlam
+84,$8.04,26,"Traum rupture of volar plate of finger at MCP/IP jt, init",12/30/2017,Purple,Prodder
+85,$6.06,47,"Maternal care for damage to fetus from alcohol, oth",8/13/2018,Goldenrod,Lotstring
+86,$5.14,73,"Toxic effect of mycotoxin food contaminants, undetermined",4/28/2018,Aquamarine,Prodder
+87,$9.49,2,"Disp fx of medial condyle of unsp humerus, init for opn fx",11/20/2018,Maroon,Vagram
+88,$4.71,6,Complete traumatic amp at level betw right hip and knee,8/16/2018,Crimson,Keylex
+89,$0.37,16,"Oth traum displ spondylolysis of 5th cervcal vert, 7thG",6/25/2018,Crimson,Cardguard
+90,$8.13,52,"Nondisp transverse fx shaft of l ulna, 7thC",3/29/2018,Mauv,Zaam-Dox
+91,$8.44,81,"Poisoning by antiallerg/antiemetic, undetermined, init",4/30/2018,Green,Lotstring
+92,$0.81,33,Unspecified fracture of unspecified lower leg,9/22/2018,Teal,Opela
+93,$4.26,82,"Burn unsp deg of unsp site right lower limb, ex ank/ft, sqla",9/25/2018,Pink,Duobam
+94,$7.50,63,Injury of unsp nerve at wrist and hand level of left arm,11/26/2018,Turquoise,Zontrax
+95,$4.17,15,"Diab with prolif diabetic rtnop with macular edema, left eye",2/5/2018,Turquoise,Redhold
+96,$9.19,64,"Poisoning by iminostilbenes, accidental, sequela",9/13/2018,Fuscia,Zontrax
+97,$2.31,40,"Insect bite (nonvenomous) of right index finger, init encntr",5/12/2018,Indigo,Span
+98,$8.31,26,"Burn of first degree of buttock, initial encounter",12/6/2018,Goldenrod,Bitchip
+99,$6.24,40,"Sprain of interphalangeal joint of right ring finger, subs",3/6/2018,Puce,Bamity
+100,$3.90,78,"Unsp superficial injury of unspecified ankle, subs encntr",12/13/2018,Blue,Quo Lux
