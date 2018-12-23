@@ -1,10 +1,12 @@
-import express from 'express';
-import data from './data/data.json'
+const express = require('express')
+const data = require('./data/data.json')
+const mongoose = require('mongoose')
+const inventory = require('./schemas/inventory.schema.js')
 
 const app = express();
 const PORT = 3000;
 
-
+mongoose.connect('mongodb://0.0.0.0/lionDb');
 app.use('/images', express.static('images'))
 
 app.get('/', (req, res) =>
