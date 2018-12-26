@@ -7,9 +7,6 @@ const inventory = require('./schemas/inventory.schema.js')
 const app = express();
 const PORT = 3000;
 
-//mongoose.connect('mongodb://0.0.0.0/lionDb');
-app.use('/images', express.static('images'))
-
 app.get('/inventory', (req, res) =>
     res.json(data)
 );
@@ -26,10 +23,16 @@ app.get('/inventory/:sku' , (req, res) => {
     res.send(skuArray);
 })
 
-// app.get('/inventory/:tag' , (req, res) => {
-//     let tag = req.params.tag;
-//     res.send(data[tag]);
-// })
+ app.get('/inventory/:tag' , (req, res) => {
+    let tagId = Number(req.params.tag);
+    var tagArray = [];
+    data.forEach(function(item) {
+      if (item.tag == tagId){
+        tagArray.push(item);
+      }
+    });
+    res.send(tagArray);
+ })
 
 app.post('/newInventory', (req, res) =>
     res.send(`POST a request with /newInventory route on port ${PORT}`)
